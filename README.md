@@ -1,2 +1,2 @@
-# GitHub_Data_Visualization
+# Visualizing Data from Web APIs
 Chapter 17 of Python Crash Course.
