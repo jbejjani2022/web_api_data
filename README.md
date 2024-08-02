@@ -1,2 +1,1 @@
-# Visualizing Data from Web APIs
-Chapter 17 of Python Crash Course.
+Visualizing data from web APIs.
